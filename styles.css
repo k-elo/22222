@@ -16,8 +16,7 @@ header {
 }
 
 .logo {
-    height: 50px; /* ან შეცვალე საჭირო ზომაზე */
-    width: auto; 
+    height: 50px;
 }
 
 nav ul {
